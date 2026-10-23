@@ -4,6 +4,18 @@
 📄 **Paper:** [Bayesian Fully Connected Tensor Network for Hyperspectral and Multispectral Image Fusion](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11540397)  
 
 
+## 🔗 Repository Information
+
+This repository is a fork of [LinsongShan/BFCTN](https://github.com/LinsongShan/BFCTN),
+which hosts the implementation accompanying our joint research paper,
+“Bayesian Fully Connected Tensor Network for Hyperspectral and Multispectral Image Fusion.”
+
+I am Zecan Yang, a co-author of this paper. This fork provides a copy
+of our research code on my GitHub profile.
+
+For upstream updates, please refer to the
+[original repository](https://github.com/LinsongShan/BFCTN).
+
 ---
 
 ## 🧭 Introduction
